@@ -1,5 +1,4 @@
 # unity-img
-# Mon Projet Unity
 
 Ce projet est une application Unity développée pour invoquer des forme à partir d'images affichées.
 
