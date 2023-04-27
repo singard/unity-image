@@ -1,0 +1,25 @@
+# Ignore Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# Ignore MonoDevelop files
+/*.pidb
+/*.sln
+/*.userprefs
+
+# Ignore Visual Studio Code files
+/.vscode/
+
+# Ignore build-specific files
+/*.apk
+/*.unitypackage
+/*.app
+/*.exe
+/*.dll
+
+# Ignore macOS specific files
+/.DS_Store
